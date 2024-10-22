@@ -8,6 +8,8 @@ pip install numpy pandas scikit-learn surprise
 We’ll use three key files:
 
 movies.csv: contains movie details
+
 ratings.csv: contains user ratings for movies
+
 tags.csv: optional, contains tags users have associated with movies
 
